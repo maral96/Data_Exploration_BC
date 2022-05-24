@@ -1,4 +1,4 @@
-Exploration of breast cancer dataset and use of feature engineering techniques and supervised learning methods to predict malignancy.
+Exploration of breast cancer dataset and utalizing feature engineering techniques and supervised learning methods to predict malignancy.
 
 # Data Exploration
 - Basic Expolaration: class imbalance, find missing values, etc.
