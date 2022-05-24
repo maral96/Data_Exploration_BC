@@ -9,7 +9,7 @@ Exploration of breast cancer dataset, utalizing feature engineering techniques a
 - Outliers Detection
 
 # Supervised Learning
-- Pre-processed data for classification (shuffle, split, feature normalization)
+- Pre-processing: feature normalization, etc.
 - Knn, SVM, Random Forest
 - Hyperparameter tunig through grid search
 
