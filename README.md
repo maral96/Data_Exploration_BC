@@ -10,6 +10,6 @@ Exploration of breast cancer dataset, utalizing feature engineering techniques a
 
 # Supervised Learning
 - Pre-processed data for classification (shuffle, split, feature normalization)
-- Knn, SVM, random forest
+- Knn, SVM, Random Forest
 - Hyperparameter tunig through grid search
 
